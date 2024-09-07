@@ -1,0 +1,14 @@
+Manual test: 
+
+velocity_without_brake: Force -> 120.722
+velocity_with_brake: Force -> 116.779
+
+Robot test: 
+
+velocity 20%: Force -> (43.391,54.598,51.956,44.632,37.331,55.385,48.703,52.944,32.964,51.078)
+
+
+
+velocity 50%: Force -> (59.242,63.356,61.347,63.432,68.063,61.347,97.744,72.153,65.756)
+
+

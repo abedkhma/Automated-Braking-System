@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "172.22.11.1"
+
+[NI-cRIO]
+NI-cRIO = "10.0.0.2"
+
+[NI-myRIOTom]
+NI-myRIOTom = "172.22.11.2"
+
